@@ -1,6 +1,9 @@
 # Express
 
 ## Commands
-npm ini
 
-npm i --save express
+``` shell
+    $ npm ini
+    $ npm i --save express
+```
+
